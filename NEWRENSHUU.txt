@@ -1,2 +1,0 @@
-# koreharenshuuyoudesu
-print("renshu")
